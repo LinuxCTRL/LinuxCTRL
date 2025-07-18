@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://github.com/LinuxCTRL/LinuxCTRL/blob/main/banner.png" alt="Developer Toolkit Builder - Human + AI Collaboration" width="100%" />
+  </div>
+<div align="center">
+
 # 👋 Hi there! I'm building the future, one utility at a time
 
 [![GitHub followers](https://img.shields.io/github/followers/LinuxCTRL?style=social)](https://github.com/LinuxCTRL)
