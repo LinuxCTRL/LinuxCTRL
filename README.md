@@ -8,6 +8,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/LinuxCTRL?style=social)](https://github.com/LinuxCTRL)
 [![Twitter Follow](https://img.shields.io/twitter/follow/am49811?style=social)](https://twitter.com/am49811)
 
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate developer who believes in creating **small but powerful tools** that make developers' lives easier. My mission is to build a collection of high-impact, compact utilities that solve real-world problems with elegant solutions.
