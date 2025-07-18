@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm building the future, one utility at a time
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/LinuxCTRL?style=social)](https://github.com/LinuxCTRL)
+[![Twitter Follow](https://img.shields.io/twitter/follow/am49811?style=social)](https://twitter.com/am49811)
 
 ## 🚀 About Me
 
@@ -126,7 +126,7 @@ speed-monitor report --last-week --export png
 speed-monitor test --servers closest
 ```
 
-[🔗 View Project](https://github.com/yourusername/network-speed-monitor)
+[🔗 View Project](https://github.com/LinuxCTRL/network-speed-monitor)
 
 #### 🔍 Port Scanner & Service Checker ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
@@ -355,9 +355,9 @@ temp-monitor dashboard --web-interface
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinuxCTRL&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxCTRL&layout=compact&theme=radical)
 
 </div>
 
@@ -393,7 +393,7 @@ I'm always excited to collaborate on interesting projects and discuss new ideas!
 - 🌱 **Currently learning**: Rust for system programming, WebAssembly for performance
 - ⚡ **Fun fact**: I believe the best software is invisible - it just works
 - 🤖 **AI Partnership**: Proud to work with Rovo Dev to build amazing tools
-- 📫 **How to reach me**: [your.email@example.com](mailto:your.email@example.com)
+- 📫 **How to reach me**: [sofalcons@outlook.com](mailto:sofalcons@outlook.com)
 
 ### Find me around the web 🌐
 
