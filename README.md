@@ -62,7 +62,7 @@ smart-search --type py --recursive     # Search Python files recursively
 
 [🔗 View Project](https://github.com/LinuxCTRL/smart-find)
 
-#### 📦 Smart Backup Tool ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
+#### 📦 Smart Backup Tool 
 
 _One-command incremental backups with compression_
 
@@ -71,7 +71,7 @@ smart-backup create /home/user --destination /backup --compress
 smart-backup restore /backup/2024-01-15 --target /home/user
 smart-backup list --show-sizes
 ```
-
+[🔗 View Project](https://github.com/LinuxCTRL/smart-backup)
 #### 🔍 Duplicate File Finder ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
 _Find and manage duplicate files with size/hash comparison_
