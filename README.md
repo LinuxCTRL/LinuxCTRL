@@ -7,7 +7,7 @@
 
 I'm a passionate developer who believes in creating **small but powerful tools** that make developers' lives easier. My mission is to build a collection of high-impact, compact utilities that solve real-world problems with elegant solutions.
 
-## 🤖 Meet My AI Development Partner - Rovo by ATLASSIAN
+## 🤖 Meet My AI Development Partner - Rovo Dev
 
 This incredible collection of utilities wouldn't exist without my amazing AI development partner - **Rovo Dev**! 🎉
 
@@ -43,6 +43,18 @@ I'm working on a comprehensive collection of **developer utilities** - each desi
 <tr>
 <td width="50%">
 
+#### 🔍 Smart Search Tools ✅ **COMPLETED**
+
+_Enhanced file and content search with beautiful colorized output_
+
+```bash
+smart-search filename.txt              # Find files by name
+smart-search --content "function"      # Search content in files
+smart-search --type py --recursive     # Search Python files recursively
+```
+
+[🔗 View Project](https://github.com/LinuxCTRL/smart-find)
+
 #### 📦 Smart Backup Tool ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
 _One-command incremental backups with compression_
@@ -63,6 +75,9 @@ dup-finder remove --interactive --keep-newest
 dup-finder report --export csv
 ```
 
+</td>
+<td width="50%">
+
 #### 🗂️ Smart File Organizer ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
 _Auto-organize files by type, date, or custom rules_
@@ -72,9 +87,6 @@ file-organizer auto /Downloads --by-type
 file-organizer custom /Photos --rule "date:YYYY/MM"
 file-organizer preview --dry-run
 ```
-
-</td>
-<td width="50%">
 
 #### 🔐 Secure File Shredder ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
@@ -96,16 +108,6 @@ disk-analyzer --largest-files --limit 20
 disk-analyzer --export html
 ```
 
-#### 🔄 Smart Sync Tool ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
-
-_Intelligent file synchronization with conflict resolution_
-
-```bash
-smart-sync /local/folder remote:/backup --bidirectional
-smart-sync --preview --show-conflicts
-smart-sync --schedule daily
-```
-
 </td>
 </tr>
 </table>
@@ -118,7 +120,7 @@ smart-sync --schedule daily
 
 #### 🌐 Network Speed Monitor ✅ **COMPLETED**
 
-_Track internet speed over time with alerts_
+_Track internet speed over time with alerts and beautiful reports_
 
 ```bash
 speed-monitor start --interval 30m --alert-threshold 50Mbps
@@ -191,6 +193,18 @@ dns-toolkit benchmark --servers 8.8.8.8,1.1.1.1
 <tr>
 <td width="50%">
 
+#### 🤖 Smart Git Commit Tool ✅ **COMPLETED**
+
+_AI-powered automatic commit message generation using Google Gemini_
+
+```bash
+smart-commit                    # Auto-generate commit message
+smart-commit --review          # Review changes before commit
+smart-commit --push            # Commit and push in one command
+```
+
+[🔗 View Project](https://github.com/LinuxCTRL/smart-commit)
+
 #### ⏰ Time Tracker ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
 _Simple CLI time tracking with project categorization_
@@ -211,6 +225,9 @@ task list --filter @work --sort priority
 task complete 5 --note "Deployed to production"
 ```
 
+</td>
+<td width="50%">
+
 #### 📝 Note Organizer ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
 _Markdown-based note system with tagging and search_
@@ -220,9 +237,6 @@ notes new "Meeting Notes" --tags work,planning
 notes search "authentication" --in-content
 notes export --format pdf --tag work
 ```
-
-</td>
-<td width="50%">
 
 #### 🔧 Environment Manager ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
@@ -244,16 +258,6 @@ git-stats --activity-heatmap --export png
 git-stats --code-frequency --since "6 months ago"
 ```
 
-#### 🚀 Deployment Helper ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
-
-_Streamline deployment workflows_
-
-```bash
-deploy-helper init --platform heroku
-deploy-helper check --environment production
-deploy-helper rollback --to-version v1.2.3
-```
-
 </td>
 </tr>
 </table>
@@ -263,6 +267,16 @@ deploy-helper rollback --to-version v1.2.3
 <table>
 <tr>
 <td width="50%">
+
+#### 🚀 Deployment Helper ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
+
+_Streamline deployment workflows_
+
+```bash
+deploy-helper init --platform heroku
+deploy-helper check --environment production
+deploy-helper rollback --to-version v1.2.3
+```
 
 #### 🧹 System Cleaner ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
@@ -284,6 +298,9 @@ battery-monitor history --chart --last-week
 battery-monitor alert --low-battery 20%
 ```
 
+</td>
+<td width="50%">
+
 #### 🖥️ Process Manager ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
 _Advanced process monitoring and management_
@@ -293,9 +310,6 @@ process-manager top --sort memory
 process-manager kill --pattern "chrome.*"
 process-manager monitor --alert-cpu 80%
 ```
-
-</td>
-<td width="50%">
 
 #### 📱 Device Manager ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
@@ -315,16 +329,6 @@ _Generate secure passwords with custom rules_
 password-gen --length 16 --include-symbols
 password-gen --passphrase --words 4
 password-gen --batch 10 --export secure.txt
-```
-
-#### 🌡️ Temperature Monitor ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
-
-_Monitor system temperatures and fan speeds_
-
-```bash
-temp-monitor watch --alert-threshold 80C
-temp-monitor log --interval 5m --export csv
-temp-monitor dashboard --web-interface
 ```
 
 </td>
@@ -366,16 +370,18 @@ temp-monitor dashboard --web-interface
 🔥 **Recently Completed:**
 
 - 🌐 **Network Speed Monitor** - ✅ **COMPLETED** - Track internet speed with beautiful reports and alerts
+- 🤖 **Smart Git Commit Tool** - ✅ **COMPLETED** - AI-powered automatic commit message generation
+- 🔍 **Smart Search Tools** - ✅ **COMPLETED** - Enhanced file and content search with beautiful output
 
 🚧 **Currently Working On:**
 
-- 🔍 **Smart File Finder** - Advanced file search with AI-powered suggestions
 - 📊 **System Dashboard** - Real-time system monitoring web interface
+- 🔐 **Secure File Shredder** - Military-grade file deletion
 
 📋 **Next Up:**
 
-- 🔐 **Secure File Shredder** - Military-grade file deletion
 - 📦 **Smart Backup Tool** - Intelligent incremental backups
+- ⏰ **Time Tracker** - CLI time tracking with project categorization
 
 ## 🤝 **The Dream Team**
 
@@ -393,7 +399,7 @@ I'm always excited to collaborate on interesting projects and discuss new ideas!
 - 🌱 **Currently learning**: Rust for system programming, WebAssembly for performance
 - ⚡ **Fun fact**: I believe the best software is invisible - it just works
 - 🤖 **AI Partnership**: Proud to work with Rovo Dev to build amazing tools
-- 📫 **How to reach me**: [sofalcons@outlook.com](mailto:sofalcons@outlook.com)
+- 📫 **How to reach me**: [ofalcons@outlook.com](mailto:sofalcons@outlook.com)
 
 ### Find me around the web 🌐
 
