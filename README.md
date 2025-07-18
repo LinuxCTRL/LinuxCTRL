@@ -347,8 +347,22 @@ password-gen --batch 10 --export secure.txt
 ### Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Operating System & Environment
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-Performance%20Optimized-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
+
+### Currently Learning
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -361,6 +375,12 @@ password-gen --batch 10 --export secure.txt
 - 📚 **Documentation** - Comprehensive guides and examples
 - 🧪 **Testing** - Thorough testing for production readiness
 - 🤖 **AI-Enhanced** - Leveraging AI for better code quality and innovation
+
+## 🐧 **Powered by CachyOS**
+
+Running on **CachyOS** - the performance-optimized Arch Linux distribution that makes everything blazingly fast! 🚀
+
+_Because when you're building developer tools, every millisecond counts._
 
 ## 📈 **GitHub Stats**
 
@@ -403,10 +423,12 @@ password-gen --batch 10 --export secure.txt
 I'm always excited to collaborate on interesting projects and discuss new ideas!
 
 - 💬 **Ask me about**: CLI tools, system utilities, developer productivity, AI-assisted development
-- 🌱 **Currently learning**: Rust for system programming, WebAssembly for performance
+- 🌱 **Currently learning**: Go for system programming, Rust for performance-critical applications
+- 🐧 **Daily driver**: CachyOS (because performance matters!)
 - ⚡ **Fun fact**: I believe the best software is invisible - it just works
 - 🤖 **AI Partnership**: Proud to work with Rovo Dev to build amazing tools
-- 📫 **How to reach me**: [ofalcons@outlook.com](mailto:sofalcons@outlook.com)
+- 🌍 **Mission**: Control the world through better developer tools! 😎
+- 📫 **How to reach me**: [sofalcons@outlook.com](mailto:sofalcons@outlook.com)
 
 ### Find me around the web 🌐
 
@@ -424,5 +446,7 @@ I'm always excited to collaborate on interesting projects and discuss new ideas!
 _Building tools that developers love, one commit at a time_ 🚀
 
 **Powered by Human Creativity + AI Excellence** 🤖❤️👨‍💻
+
+**LinuxCTRL - Controlling the world through better developer tools!** 🌍💪
 
 </div>
