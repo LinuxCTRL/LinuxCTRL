@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm building the future, one utility at a time
 
 [![GitHub followers](https://img.shields.io/github/followers/LinuxCTRL?style=social)](https://github.com/LinuxCTRL)
-[![Twitter Follow](https://img.shields.io/twitter/follow/LinuxCTRL?style=social)](https://twitter.com/LinuxCTRL)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LinuxCTRL?style=social)]((https://x.com/am49811))
 
 ## 🚀 About Me
 
